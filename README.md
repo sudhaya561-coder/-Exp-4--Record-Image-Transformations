@@ -1,5 +1,9 @@
 ## EXP 4 : IMAGE-TRANSFORMATIONS
 
+## NAME :UDHAYA S
+
+## REG NO :212225230287
+
 ## Aim
 
 To perform image transformations such as Translation, Scaling, Shearing, Reflection, Rotation, and Cropping using OpenCV and Python.
@@ -141,14 +145,17 @@ plt.axis('off')
 ## Output
 ### i) Input Iamge
 
+<img width="340" height="462" alt="image" src="https://github.com/user-attachments/assets/e8f415dc-6c07-4209-89f0-971c2edd1e65" />
 
 
 ### ii) Image Translation
 
+<img width="338" height="466" alt="image" src="https://github.com/user-attachments/assets/d216907d-72bd-4dce-aeec-eed48a8afb8c" />
 
 
 ### iii) Image Scaling
 
+<img width="587" height="348" alt="image" src="https://github.com/user-attachments/assets/8d21efd2-9300-4912-9ca5-c64972b02967" />
 
 
 ### iv) Image Shearing
@@ -164,7 +171,7 @@ plt.axis('off')
 ### vi) Image Rotation
 
 
-<img width="335" height="465" alt="image" src="https://github.com/user-attachments/assets/60202735-16ff-4e74-a8e0-02fc0da399e1" />
+<img width="390" height="487" alt="image" src="https://github.com/user-attachments/assets/d1207d10-f71d-4adb-b21a-fc597607e5fe" />
 
 ### vii) Image Cropping
 
