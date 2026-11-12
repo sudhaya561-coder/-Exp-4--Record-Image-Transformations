@@ -40,10 +40,6 @@ Crop a specific region of the image and save the cropped image.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
-
-**Register Number:** 212225240146
-
 ## i) Image Translation
 
 ```python
